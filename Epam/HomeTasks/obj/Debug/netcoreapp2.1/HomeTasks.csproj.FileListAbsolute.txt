@@ -1,0 +1,11 @@
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\bin\Debug\netcoreapp2.1\HomeTasks.deps.json
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\bin\Debug\netcoreapp2.1\HomeTasks.runtimeconfig.json
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\bin\Debug\netcoreapp2.1\HomeTasks.runtimeconfig.dev.json
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\bin\Debug\netcoreapp2.1\HomeTasks.dll
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\bin\Debug\netcoreapp2.1\HomeTasks.pdb
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\obj\Debug\netcoreapp2.1\HomeTasks.csprojAssemblyReference.cache
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\obj\Debug\netcoreapp2.1\HomeTasks.csproj.CoreCompileInputs.cache
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\obj\Debug\netcoreapp2.1\HomeTasks.AssemblyInfoInputs.cache
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\obj\Debug\netcoreapp2.1\HomeTasks.AssemblyInfo.cs
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\obj\Debug\netcoreapp2.1\HomeTasks.dll
+C:\Users\nazin\EPAM-hometasks\Epam\HomeTasks\obj\Debug\netcoreapp2.1\HomeTasks.pdb
